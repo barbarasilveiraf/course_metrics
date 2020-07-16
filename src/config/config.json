@@ -1,0 +1,7 @@
+{
+"project_name": "hermione_projeto",
+"env_path": "hermione_projeto/hermione_projeto_env",
+"files_path": "../data/raw/",
+"key": "<<<<key>>>>",
+"user": "<<<<user>>>>"
+}
